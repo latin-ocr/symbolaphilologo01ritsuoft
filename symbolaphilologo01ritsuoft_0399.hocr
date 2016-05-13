@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./symbolaphilologo01ritsuoft_0399.png"; bbox 0 0 2330 3606; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1026 1051 1114 1099">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1026 1051 1114 1099">
+     <span class='ocr_line' id='line_1_1' title="bbox 1026 1051 1114 1099; baseline 0.011 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1026 1051 1114 1099; x_wconf 92' lang='lat' dir='ltr'><strong>DE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 413 1273 1709 1364">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 413 1273 1709 1364">
+     <span class='ocr_line' id='line_1_2' title="bbox 413 1273 1709 1364; baseline -0.003 -1"><span class='ocrx_word' id='word_1_2' title='bbox 413 1278 530 1364; x_wconf 88' lang='lat' dir='ltr'><strong>M.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 628 1275 1167 1363; x_wconf 86' lang='lat' dir='ltr'><strong>CAELI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1281 1273 1709 1361; x_wconf 82' lang='lat' dir='ltr'><strong>RVFI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 624 1521 1499 1596">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 624 1521 1499 1596">
+     <span class='ocr_line' id='line_1_3' title="bbox 624 1521 1499 1596; baseline -0.001 0"><span class='ocrx_word' id='word_1_5' title='bbox 624 1523 1199 1596; x_wconf 62' lang='lat' dir='ltr'><strong>EPISTVLARVM</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1257 1521 1499 1595; x_wconf 83' lang='lat' dir='ltr'>LIBRO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 947 1782 1187 1813">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 947 1782 1187 1813">
+     <span class='ocr_line' id='line_1_4' title="bbox 947 1782 1187 1813; baseline 0 -2"><span class='ocrx_word' id='word_1_7' title='bbox 947 1782 1068 1813; x_wconf 77' lang='lat' dir='ltr'><strong>DISSI⁴</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1064 1782 1187 1811; x_wconf 56' lang='lat' dir='ltr'><strong>TTTTT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 804 1985 1329 2040">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 804 1985 1329 2040">
+     <span class='ocr_line' id='line_1_5' title="bbox 804 1985 1329 2040; baseline -0.004 0"><span class='ocrx_word' id='word_1_9' title='bbox 804 1987 1060 2040; x_wconf 76' lang='lat' dir='ltr'>BRVNO</span> <span class='ocrx_word' id='word_1_10' title='bbox 1104 1985 1329 2039; x_wconf 80' lang='lat' dir='ltr'><strong>NAKE.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

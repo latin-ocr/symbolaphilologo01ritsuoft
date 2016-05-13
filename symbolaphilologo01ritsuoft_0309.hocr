@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./symbolaphilologo01ritsuoft_0309.png"; bbox 0 0 2330 3606; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 971 1142 1164 1182">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 971 1142 1164 1182">
+     <span class='ocr_line' id='line_1_1' title="bbox 971 1142 1164 1182; baseline 0.01 -2"><span class='ocrx_word' id='word_1_1' title='bbox 971 1142 1164 1182; x_wconf 66' lang='lat' dir='ltr'>[IERER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 808 1346 1325 1414">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 808 1346 1325 1414">
+     <span class='ocr_line' id='line_1_2' title="bbox 808 1346 1325 1414; baseline -0.002 0"><span class='ocrx_word' id='word_1_2' title='bbox 808 1346 1194 1414; x_wconf 67' lang='lat' dir='ltr'>STROPHE</span> <span class='ocrx_word' id='word_1_3' title='bbox 1253 1350 1325 1413; x_wconf 65' lang='lat'>76</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 304 1570 1853 1668">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 304 1570 1853 1668">
+     <span class='ocr_line' id='line_1_3' title="bbox 304 1570 1853 1668; baseline 0.002 -3"><span class='ocrx_word' id='word_1_4' title='bbox 304 1590 577 1668; x_wconf 65' lang='grc' dir='ltr'>ΗΕΒ</span> <span class='ocrx_word' id='word_1_5' title='bbox 665 1591 1479 1668; x_wconf 68' lang='lat' dir='ltr'><strong>NIBELUNGE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1572 1570 1853 1668; x_wconf 77' lang='lat' dir='ltr'><strong>NOT.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 650 2026 1485 2079">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 650 2026 1485 2079">
+     <span class='ocr_line' id='line_1_4' title="bbox 650 2026 1485 2079; baseline -0.001 -1"><span class='ocrx_word' id='word_1_7' title='bbox 650 2028 942 2079; x_wconf 60' lang='lat' dir='ltr'>Al&#39;ffl&#39;s&#39;s</span> <span class='ocrx_word' id='word_1_8' title='bbox 996 2026 1485 2079; x_wconf 58' lang='lat' dir='ltr'>SCHLEICHER.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

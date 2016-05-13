@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./symbolaphilologo01ritsuoft_0339.png"; bbox 0 0 2330 3606; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 661 976 1449 1045">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 661 976 1449 1045">
+     <span class='ocr_line' id='line_1_1' title="bbox 661 976 1449 1045; baseline -0.004 0"><span class='ocrx_word' id='word_1_1' title='bbox 661 976 1449 1045; x_wconf 74' lang='lat' dir='ltr'><strong>CONIEOTANEA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1030 1226 1080 1268">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1030 1226 1080 1268">
+     <span class='ocr_line' id='line_1_2' title="bbox 1030 1226 1080 1268; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 1030 1226 1080 1268; x_wconf 90' lang='lat' dir='ltr'><strong>IN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 266 1437 1842 1527">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 266 1437 1842 1527">
+     <span class='ocr_line' id='line_1_3' title="bbox 266 1437 1842 1527; baseline 0 -2"><span class='ocrx_word' id='word_1_3' title='bbox 266 1438 952 1527; x_wconf 78' lang='lat' dir='ltr'><strong>POETAS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1060 1437 1842 1526; x_wconf 82' lang='lat' dir='ltr'><strong>LATINOS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 954 1700 1156 1732">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 954 1700 1156 1732">
+     <span class='ocr_line' id='line_1_4' title="bbox 954 1700 1156 1732; baseline -0.015 0"><span class='ocrx_word' id='word_1_5' title='bbox 954 1700 1156 1732; x_wconf 78' lang='lat' dir='ltr'>SCRIPSIT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 456 1905 1652 1959">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 456 1905 1652 1959">
+     <span class='ocr_line' id='line_1_5' title="bbox 456 1905 1652 1959; baseline -0.002 0"><span class='ocrx_word' id='word_1_6' title='bbox 456 1905 931 1959; x_wconf 76' lang='lat' dir='ltr'><strong>HERMANNVS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 978 1906 1380 1959; x_wconf 80' lang='lat' dir='ltr'><strong>ADOLPHVS</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1427 1905 1652 1958; x_wconf 82' lang='lat' dir='ltr'>KOCH.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
